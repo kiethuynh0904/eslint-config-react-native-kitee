@@ -12,7 +12,7 @@ module.exports = {
         "no-undef": "off",
         quotes: [
             "error",
-            "double",
+            "single",
             {
                 avoidEscape: true,
             },
