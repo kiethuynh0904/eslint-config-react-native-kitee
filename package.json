@@ -1,10 +1,14 @@
 {
   "name": "eslint-config-react-native-kitee",
-  "version": "1.0.0",
+  "version": "1.0.0-development",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kiethuynh0904/eslint-config-react-native-kitee.git"
   },
   "keywords": [],
   "author": "kitee <kiethuynh0904@gmail.com>",
